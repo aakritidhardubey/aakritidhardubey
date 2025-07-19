@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif" width="350"/>
 <br>
   <br>
   <code style="color: #00FF00; font-family: monospace;">👋 Hii, I’m Aakriti </code>
