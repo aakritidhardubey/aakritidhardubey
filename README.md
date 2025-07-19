@@ -1,6 +1,6 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHBiMXUyNzF0ZHFtaWJqNmtqYTY5ZDNvdzBzdjF6d2d6d2FyaHJscyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WU4t4XBaXhqW/giphy.gif" width="150"/>
-  <br>
+  <img src="https://media.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif" width="200"/>
+br>
   <code style="color: #00FF00; font-family: monospace;">👋 Hey, I’m Aakriti Dhar Dubey</code>
 </h1>
 
