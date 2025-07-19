@@ -14,19 +14,19 @@ I'm a Data Whisperer, LLM Tamer, and AI Crafter.
 
 ### 🧠 <span style="color:#00ff00">A Bit About Me</span>
 
-- 🛠️ I love building practical tools powered by Python, LLMs, and APIs  
-- 🌐 Into Streamlit apps, automation, and code that does the boring stuff  
-- 📊 Big fan of turning messy data into something that makes sense  
-- 🧩 I mix ML + creativity — especially where AI meets storytelling  
+- 📊 I turn messy data into meaningful insights using Python, Pandas & Power BI  
+- 📦 I love building Streamlit apps for dashboards, automation, and storytelling  
+- 🧠 I experiment with LLMs, but Data Science is my home turf  
+- 🌟 Curious about how machine learning meets real-world problems   
 
 ---
 ---
 
 ### 🔭 <span style="color:#00ff00">What I'm Exploring Right Now</span>
 
-- 🤖 Quirky but clever LLM agents using Together.ai & OpenRouter  
-- 📈 Letting data tell better stories with PandasAI + Streamlit  
-- 🗣️ Whisper-powered summaries — because even machines should listen  
+- 🧮 Smarter data exploration with PandasAI + clean visualizations  
+- 🔎 Feature engineering, clustering, and classification models  
+- 🗣️ Using Whisper + summarizers to make content more accessible 
 
 ---
 ---
