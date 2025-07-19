@@ -6,6 +6,7 @@
 
 <pre align="center" style="color: #00ff00">
 01001000 01100101 01101100 01101100 01101111 00101100 
+         "HELLO!!"
 I'm a Data Whisperer, LLM Tamer, and AI Crafter.
 </pre>
 
