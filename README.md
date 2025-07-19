@@ -1,7 +1,8 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif" width="500"/>
 <br>
-  <code style="color: #00FF00; font-family: monospace;">👋 Hey, I’m Aakriti </code>
+  <br>
+  <code style="color: #00FF00; font-family: monospace;">👋 Hii, I’m Aakriti </code>
 </h1>
 
 <pre align="center" style="color: #00ff00">
