@@ -10,6 +10,7 @@ I'm a Data Whisperer, LLM Tamer, and AI Crafter.
 </pre>
 
 ---
+---
 
 ### 🧠 <span style="color:#00ff00">A Bit About Me</span>
 
@@ -19,6 +20,7 @@ I'm a Data Whisperer, LLM Tamer, and AI Crafter.
 - 🧩 I mix ML + creativity — especially where AI meets storytelling  
 
 ---
+---
 
 ### 🔭 <span style="color:#00ff00">What I'm Exploring Right Now</span>
 
@@ -27,14 +29,16 @@ I'm a Data Whisperer, LLM Tamer, and AI Crafter.
 - 🗣️ Whisper-powered summaries — because even machines should listen  
 
 ---
+---
 
 ### 💬 <span style="color:#00ff00">Let’s Connect (No spam bots pls)</span>
 
-- 🌐 [Portfolio](https://aakritidhardubey.github.io/)  
+  
 - 💼 [LinkedIn](https://www.linkedin.com/in/aakritidhardubey/)  
 - 🧠 [GitHub](https://github.com/aakritidhardubey)  
 - 📫 aakriti2144@gmail.com  
 
+---
 ---
 
 <p align="center">
